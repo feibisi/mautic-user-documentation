@@ -1,0 +1,111 @@
+{"en": "API", "zh": "API"}
+{"en": "Action", "zh": "动作"}
+{"en": "Amazon", "zh": "Amazon"}
+{"en": "Asset", "zh": "资源"}
+{"en": "Authentication", "zh": "认证"}
+{"en": "Builder", "zh": "构建器"}
+{"en": "CLI", "zh": "命令行"}
+{"en": "Campaign", "zh": "营销活动"}
+{"en": "Category", "zh": "分类"}
+{"en": "Channel", "zh": "渠道"}
+{"en": "Clearbit", "zh": "Clearbit"}
+{"en": "Code Mode", "zh": "代码模式"}
+{"en": "Company", "zh": "公司"}
+{"en": "Condition", "zh": "条件"}
+{"en": "ConnectWise", "zh": "ConnectWise"}
+{"en": "Contact", "zh": "联系人"}
+{"en": "Cron Job", "zh": "定时任务"}
+{"en": "Custom Field", "zh": "自定义字段"}
+{"en": "Dashboard", "zh": "仪表盘"}
+{"en": "Dynamic Content", "zh": "动态内容"}
+{"en": "Dynamic Web Content", "zh": "动态网页内容"}
+{"en": "Email", "zh": "邮件"}
+{"en": "Export", "zh": "导出"}
+{"en": "File Ownership", "zh": "文件所有权"}
+{"en": "Filter", "zh": "过滤器"}
+{"en": "Focus Item", "zh": "焦点项目"}
+{"en": "Form", "zh": "表单"}
+{"en": "Frequency", "zh": "频率"}
+{"en": "FullContact", "zh": "FullContact"}
+{"en": "HubSpot", "zh": "HubSpot"}
+{"en": "Import", "zh": "导入"}
+{"en": "Integration", "zh": "集成"}
+{"en": "Landing Page", "zh": "落地页"}
+{"en": "Lead", "zh": "潜在客户"}
+{"en": "List", "zh": "列表"}
+{"en": "Locale", "zh": "区域设置"}
+{"en": "Mailchimp", "zh": "Mailchimp"}
+{"en": "Marketing Message", "zh": "营销消息"}
+{"en": "Marketplace", "zh": "Marketplace"}
+{"en": "Message Queue", "zh": "消息队列"}
+{"en": "Microsoft Dynamics", "zh": "Microsoft Dynamics"}
+{"en": "Microsoft Outlook", "zh": "Microsoft Outlook"}
+{"en": "Notification", "zh": "通知"}
+{"en": "Owner", "zh": "所有者"}
+{"en": "Permission", "zh": "权限"}
+{"en": "Pipedrive", "zh": "Pipedrive"}
+{"en": "Plugin", "zh": "插件"}
+{"en": "Point", "zh": "积分"}
+{"en": "Point Group", "zh": "积分组"}
+{"en": "Position", "zh": "职位"}
+{"en": "Preference Center", "zh": "偏好中心"}
+{"en": "Push Notification", "zh": "推送通知"}
+{"en": "Queue", "zh": "队列"}
+{"en": "Redirect", "zh": "重定向"}
+{"en": "Report", "zh": "报告"}
+{"en": "Resource", "zh": "资源"}
+{"en": "Resource Limits", "zh": "资源限制"}
+{"en": "Role", "zh": "角色"}
+{"en": "Rule", "zh": "规则"}
+{"en": "S/MIME", "zh": "S/MIME"}
+{"en": "SMS", "zh": "短信"}
+{"en": "Salesforce", "zh": "Salesforce"}
+{"en": "Search", "zh": "搜索"}
+{"en": "Segment", "zh": "分组"}
+{"en": "Shortener", "zh": "短链接"}
+{"en": "Signature", "zh": "签名"}
+{"en": "Social Monitoring", "zh": "社交监测"}
+{"en": "Source", "zh": "来源"}
+{"en": "Stage", "zh": "阶段"}
+{"en": "Subscriber", "zh": "订阅者"}
+{"en": "SugarCRM", "zh": "SugarCRM"}
+{"en": "Tag", "zh": "标签"}
+{"en": "Tag Manager", "zh": "标签管理器"}
+{"en": "Template", "zh": "模板"}
+{"en": "Theme", "zh": "主题"}
+{"en": "Timezone", "zh": "时区"}
+{"en": "Tracker", "zh": "跟踪器"}
+{"en": "Tracking", "zh": "跟踪"}
+{"en": "Translation", "zh": "翻译"}
+{"en": "Trigger", "zh": "触发器"}
+{"en": "Troubleshooting", "zh": "故障排除"}
+{"en": "Twilio", "zh": "Twilio"}
+{"en": "Twitter", "zh": "Twitter"}
+{"en": "UTM Tag", "zh": "UTM 标签"}
+{"en": "UTM Tags", "zh": "UTM 标签"}
+{"en": "User", "zh": "用户"}
+{"en": "Vtiger", "zh": "Vtiger"}
+{"en": "Web Notification", "zh": "网页通知"}
+{"en": "Webhook", "zh": "Webhook"}
+{"en": "WordPress", "zh": "WordPress"}
+{"en": "Zapier", "zh": "Zapier"}
+{"en": "Zoho CRM", "zh": "Zoho CRM"}
+{"en": "iContact", "zh": "iContact"}
+{"en": "Conditional Field", "zh": "条件字段", "domain": "forms"}
+{"en": "Progressive Profiling", "zh": "渐进式画像", "domain": "forms"}
+{"en": "Kiosk Mode", "zh": "Kiosk 模式", "domain": "forms"}
+{"en": "Mailer is Owner", "zh": "邮件发送者即所有者", "domain": "emails"}
+{"en": "Bounce Management", "zh": "退信管理", "domain": "emails"}
+{"en": "Monitored Email", "zh": "邮件监控", "domain": "emails"}
+{"en": "IMAP", "zh": "IMAP", "domain": "emails"}
+{"en": "GrapesJS", "zh": "GrapesJS", "domain": "builders"}
+{"en": "MJML", "zh": "MJML", "domain": "builders"}
+{"en": "OneSignal", "zh": "OneSignal", "domain": "channels"}
+{"en": "RabbitMQ", "zh": "RabbitMQ", "domain": "queue"}
+{"en": "Beanstalkd", "zh": "Beanstalkd", "domain": "queue"}
+{"en": "Social Monitor", "zh": "社交监测", "domain": "channels"}
+{"en": "Dynamic Segment", "zh": "动态分组", "domain": "segments"}
+{"en": "Static Segment", "zh": "静态分组", "domain": "segments"}
+{"en": "Broadcast", "zh": "广播", "domain": "emails"}
+{"en": "A/B Testing", "zh": "A/B 测试", "domain": "emails"}
+{"en": "Base64", "zh": "Base64", "domain": "emails"}
